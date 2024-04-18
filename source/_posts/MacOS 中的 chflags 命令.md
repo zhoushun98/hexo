@@ -1,5 +1,5 @@
 ---
-title: macOS chflags
+title: MacOS 中的 chflags 命令
 date: 2024-04-19 01:49:54
 tags: linux
 ---
